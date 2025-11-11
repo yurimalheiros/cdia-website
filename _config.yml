@@ -2,8 +2,8 @@
 title: "Ciência de Dados e Inteligência Artificial"
 subtitle: ""
 description: "Curso de Bacharelado em Ciência de Dados e Inteligência Artificial da Universidade Federal da Paraíba"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/cdia-website" # the subpath of your site, e.g. /blog
+url: "https://www.yurimalheiros.com/cdia-website/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
