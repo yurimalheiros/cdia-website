@@ -1,0 +1,49 @@
+# Site settings
+title: "Ciência de Dados e Inteligência Artificial"
+subtitle: ""
+description: "Curso de Bacharelado em Ciência de Dados e Inteligência Artificial da Universidade Federal da Paraíba"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - TODO.md
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Navigation
+navigation:
+  - title: Início
+    url: /
+  - title: Curso
+    url: /curso
+  - title: Grade Curricular
+    url: /grade
+  - title: Corpo Docente
+    url: /docentes
+  - title: Como Chegar
+    url: /como-chegar
+  - title: Contato
+    url: /contato
+
+# Social links (optional)
+github: ""
+email: ""
+
+# SEO settings
+lang: pt-BR

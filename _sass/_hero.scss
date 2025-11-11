@@ -1,0 +1,128 @@
+// Hero section styles
+.hero {
+  position: relative;
+  padding: var(--spacing-xxl) 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  overflow: hidden;
+
+  @media (min-width: $breakpoint-md) {
+    padding: 8rem 0 6rem;
+  }
+
+  // Decorative background elements
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--color-accent), var(--color-accent-green));
+    opacity: 0.05;
+  }
+
+  &::before {
+    width: 500px;
+    height: 500px;
+    top: -250px;
+    right: -100px;
+  }
+
+  &::after {
+    width: 400px;
+    height: 400px;
+    bottom: -200px;
+    left: -100px;
+    background: linear-gradient(135deg, var(--color-primary), var(--color-primary-light));
+  }
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.hero-badge {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background: white;
+  border-radius: var(--radius-xl);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+  box-shadow: var(--shadow-md);
+}
+
+.hero-title {
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  font-weight: 800;
+  margin-bottom: var(--spacing-md);
+  line-height: 1.1;
+  color: var(--color-text);
+
+  .highlight {
+    background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+.hero-subtitle {
+  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-lg);
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  justify-content: center;
+  align-items: center;
+
+  @media (min-width: $breakpoint-sm) {
+    flex-direction: row;
+  }
+}
+
+// Stats section
+.hero-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-xl);
+  padding: var(--spacing-lg);
+  background: white;
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+
+  @media (min-width: $breakpoint-md) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.stat-item {
+  text-align: center;
+  padding: var(--spacing-sm);
+
+  &-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+
+  &-label {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    font-weight: 500;
+  }
+}
