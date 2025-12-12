@@ -126,3 +126,33 @@
     font-weight: 500;
   }
 }
+
+// MEC Badge Section
+.mec-badge-section {
+  padding: var(--spacing-lg) 0;
+  background: linear-gradient(to bottom, #f8f9fa 0%, white 100%);
+}
+
+.mec-badge-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mec-badge-image {
+  max-width: 100%;
+  // width: 600px;
+  height: auto;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  @media (max-width: $breakpoint-sm) {
+    width: 90%;
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+}
