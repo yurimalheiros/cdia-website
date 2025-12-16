@@ -26,8 +26,23 @@
 
 .site-logo {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.75rem;
   text-decoration: none;
+
+  &-image {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    margin-left: 0.5rem;
+
+    @media (min-width: $breakpoint-md) {
+      width: 50px;
+      height: 50px;
+      margin-left: 1rem;
+    }
+  }
 
   &-title {
     font-size: 1.25rem;

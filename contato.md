@@ -24,14 +24,10 @@ Está interessado em conhecer mais sobre o curso? Tem dúvidas sobre o processo 
 **Universidade Federal da Paraíba**
 Centro de Informática
 Rua dos Escoteiros, s/n – Mangabeira
-João Pessoa – PB, 58055-000
+João Pessoa – PB, 58058-600
 
 **Horário de funcionamento**: 8:00h às 18:00h
 
 ### Como Chegar
 
 Para informações sobre como chegar ao CI, acesse nossa página [Como Chegar](/como-chegar).
-
----
-
-*Este é um site institucional. Para informações oficiais, sempre consulte os canais oficiais da UFPB.*

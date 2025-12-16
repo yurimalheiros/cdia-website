@@ -67,6 +67,7 @@ table {
   border-radius: var(--radius-md);
   overflow: hidden;
   box-shadow: var(--shadow-sm);
+  table-layout: fixed;
 
   thead {
     background: var(--color-primary);
@@ -76,6 +77,18 @@ table {
       padding: var(--spacing-sm) var(--spacing-sm);
       text-align: left;
       font-weight: 600;
+
+      &:nth-child(1) {
+        width: 60%;
+      }
+
+      &:nth-child(2) {
+        width: 20%;
+      }
+
+      &:nth-child(3) {
+        width: 20%;
+      }
     }
   }
 
@@ -94,6 +107,18 @@ table {
 
     td {
       padding: var(--spacing-sm) var(--spacing-sm);
+
+      &:nth-child(1) {
+        width: 60%;
+      }
+
+      &:nth-child(2) {
+        width: 20%;
+      }
+
+      &:nth-child(3) {
+        width: 20%;
+      }
     }
   }
 }
