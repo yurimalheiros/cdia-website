@@ -4,6 +4,19 @@ title: O Curso
 subtitle: Conheça mais sobre o Bacharelado em Ciência de Dados e Inteligência Artificial
 ---
 
+<div style="max-width: 800px; margin: 0 auto 3rem auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/VAacpnNhpOE"
+      title="Vídeo do Curso de Ciência de Dados e IA"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 ## Apresentação
 
 O curso de **bacharelado em Ciência de Dados e Inteligência Artificial** é oferecido pelo **Centro de Informática da UFPB**, possui uma carga horária de 3000 horas e duração de quatro anos. O turno de oferta do curso é diurno e serão providas 40 vagas por semestre.
