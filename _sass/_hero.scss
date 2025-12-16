@@ -1,9 +1,28 @@
+// Floating animation keyframes
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) rotate(-8deg);
+  }
+  50% {
+    transform: translateY(-15px) rotate(-8deg);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: translateY(0) rotate(-8deg) scale(1);
+  }
+  50% {
+    transform: translateY(-15px) rotate(-8deg) scale(1.05);
+  }
+}
+
 // Hero section styles
 .hero {
   position: relative;
   padding: var(--spacing-xl) 0;
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  overflow: hidden;
+  overflow: visible;
 
   @media (min-width: $breakpoint-md) {
     padding: 4rem 0 4rem;
@@ -154,5 +173,44 @@
   &:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+}
+
+// Floating Badge (Selo MEC)
+.floating-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+
+  @media (min-width: $breakpoint-md) {
+    top: 40px;
+    right: 60px;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    top: 15px;
+    right: 15px;
+  }
+}
+
+.floating-badge-image {
+  width: 120px;
+  height: auto;
+  display: block;
+  border-radius: 50%;
+  transform: rotate(10deg);
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.2),
+    0 5px 15px rgba(0, 0, 0, 0.15),
+    0 0 0 3px rgba(255, 255, 255, 0.8);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+
+  @media (min-width: $breakpoint-md) {
+    width: 160px;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    width: 90px;
   }
 }
