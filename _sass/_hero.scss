@@ -160,7 +160,6 @@
 
 .mec-badge-image {
   max-width: 100%;
-  // width: 600px;
   height: auto;
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-lg);
@@ -179,23 +178,26 @@
 // Floating Badge (Selo MEC)
 .floating-badge {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: auto;
+  bottom: 125px;
+  right: 10px;
   z-index: 10;
 
   @media (min-width: $breakpoint-md) {
-    top: 40px;
-    right: 60px;
+    top: 20px;
+    right: 40px;
   }
 
   @media (max-width: $breakpoint-sm) {
-    top: 15px;
-    right: 15px;
+    // top: 5px;
+    top: auto;
+    bottom: 165px;
+    right: 10px;
   }
 }
 
 .floating-badge-image {
-  width: 120px;
+  width: 90px;
   height: auto;
   display: block;
   border-radius: 50%;
@@ -207,7 +209,7 @@
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
 
   @media (min-width: $breakpoint-md) {
-    width: 160px;
+    width: 120px;
   }
 
   @media (max-width: $breakpoint-sm) {
