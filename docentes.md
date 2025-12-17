@@ -9,7 +9,7 @@ subtitle: Conheça nossos professores e a coordenação do curso
 <div class="grid grid-2" style="margin-top: 2rem;">
 
 <div class="card">
-  <h3 class="card-title">Teobaldo Bulhões</h3>
+  <h3 class="card-title"><a href="https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1058696" target="_blank">Teobaldo Bulhões</a></h3>
   <span class="badge badge-primary">Coordenador</span>
   <p class="card-text" style="margin-top: 1rem;">
     <strong>E-mail:</strong> tbulhoes@ci.ufpb.br
@@ -17,7 +17,7 @@ subtitle: Conheça nossos professores e a coordenação do curso
 </div>
 
 <div class="card">
-  <h3 class="card-title">Bruno Bruck</h3>
+  <h3 class="card-title"><a href="https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=3048216" target="_blank">Bruno Bruck</a></h3>
   <span class="badge badge-primary">Vice-Coordenador</span>
   <p class="card-text" style="margin-top: 1rem;">
     <strong>E-mail:</strong> bruno.bruck@ci.ufpb.br
@@ -42,47 +42,44 @@ Os docentes do curso pertencem a vários departamentos da universidade segundo s
 
 | Nome | Titulação |
 |------|-----------|
-| Adriana Carla Damasceno | Doutor |
-| Adriano Alves de Medeiros | Doutor |
-| Alisson Vasconcelos de Brito | Doutor |
-| Ana Paula Pintado Wyse | Doutor |
-| Andrei de Araujo Formiga | Doutor |
-| Aparecido Jesuino de Souza | Doutor |
-| Bruno Jefferson de Sousa Pessoa | Doutor |
-| Bruno Petrato Bruck | Doutor |
-| Ed Porto Bezerra | Doutor |
-| Edson de Figueiredo Lima Junior | Doutor |
-| Elizabet Maria Spohr de Medeiros | Mestre |
-| Felipe Antonio Garcia Moreno | Doutor |
-| Gilberto Farias de Sousa Filho | Doutor |
-| Gustavo Charles Peixoto de Oliveira | Doutor |
-| Isabella Silva Duarte | Mestre |
-| Jorge Costa Duarte Filho | Mestre |
-| Jose Gomes de Assis | Doutor |
-| Jose Jorge Lima Dias Junior | Doutor |
-| Jose Miguel Aroztegui Massera | Doutor |
-| Kely Diana Villacorta Villacorta | Doutor |
-| Leandro Carlos de Souza | Doutor |
-| Leonardo Vidal Batista | Doutor |
-| Liliane dos Santos Machado | Doutor |
-| Lincoln David Nery e Silva | Doutor |
-| Lucidio dos Anjos Formiga Cabral | Doutor |
-| Marcelo Iury de Sousa Oliveira | Doutor |
-| Masterson Falcao de Morais Costa | Mestre |
-| Milton de Lacerda Oliveira | Doutor |
-| Moises Dantas dos Santos | Doutor |
-| Raoni Kulesza | Doutor |
-| Renatha Batista dos Santos | Mestre |
-| Ricardo Burity Croccia Macedo | Doutor |
-| Roberto Quirino do Nascimento | Doutor |
-| Sergio de Carvalho Bezerra | Doutor |
-| Tatiana Araujo Simoes | Doutor |
-| Teobaldo Leite Bulhões Junior | Doutor |
-| Tiago Maritan Ugulino de Araujo | Doutor |
-| Uberlandio Batista Severo | Doutor |
-| Yuri de Almeida Malheiros Barbosa | Doutor |
-| Yuska Paola Costa Aguiar | Doutor |
+| [Adriana Carla Damasceno](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1542344) | Doutor |
+| [Adriano Alves de Medeiros](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2130828) | Doutor |
+| [Alisson Vasconcelos de Brito](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2579537) | Doutor |
+| [Ana Paula Pintado Wyse](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1545785) | Doutor |
+| [Andrei de Araujo Formiga](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2798885) | Doutor |
+| [Aparecido Jesuino de Souza](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=6335045) | Doutor |
+| [Bruno Jefferson de Sousa Pessoa](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1893777) | Doutor |
+| [Bruno Petrato Bruck](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=3048216) | Doutor |
+| [Ed Porto Bezerra](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=401182) | Doutor |
+| [Edson de Figueiredo Lima Junior](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=331484) | Doutor |
+| [Elizabet Maria Spohr de Medeiros](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2115810) | Mestre |
+| [Felipe Antonio Garcia Moreno](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1973710) | Doutor |
+| [Gilberto Farias de Sousa Filho](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2551745) | Doutor |
+| [Gustavo Charles Peixoto de Oliveira](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2344244) | Doutor |
+| [Jose Gomes de Assis](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=333939) | Doutor |
+| [Jose Jorge Lima Dias Junior](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1716289) | Doutor |
+| [Jose Miguel Aroztegui Massera](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=3158986) | Doutor |
+| [Kely Diana Villacorta Villacorta](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1939266) | Doutor |
+| [Leandro Carlos de Souza](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1140339) | Doutor |
+| [Leonardo Vidal Batista](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1167863) | Doutor |
+| [Liliane dos Santos Machado](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2379027) | Doutor |
+| [Lincoln David Nery e Silva](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2476422) | Doutor |
+| [Lucidio dos Anjos Formiga Cabral](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1175878) | Doutor |
+| [Marcelo Iury de Sousa Oliveira](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1679100) | Doutor |
+| [Masterson Falcao de Morais Costa](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1144484) | Mestre |
+| [Milton de Lacerda Oliveira](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=6914347) | Doutor |
+| [Moises Dantas dos Santos](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1559497) | Doutor |
+| [Raoni Kulesza](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2777570) | Doutor |
+| [Ricardo Burity Croccia Macedo](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1022010) | Doutor |
+| [Roberto Quirino do Nascimento](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=337293) | Doutor |
+| [Sergio de Carvalho Bezerra](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1363532) | Doutor |
+| [Tatiana Araujo Simoes](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2486912) | Doutor |
+| [Teobaldo Leite Bulhões Junior](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1058696) | Doutor |
+| [Tiago Maritan Ugulino de Araujo](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2813926) | Doutor |
+| [Uberlandio Batista Severo](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=3279692) | Doutor |
+| [Yuri de Almeida Malheiros Barbosa](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1827772) | Doutor |
+| [Yuska Paola Costa Aguiar](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=2023253) | Doutor |
 
 ---
 
-**Total de docentes**: 40 professores (35 doutores e 5 mestres)
+**Total de docentes**: 37 professores (35 doutores e 2 mestres)
