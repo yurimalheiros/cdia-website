@@ -8,19 +8,20 @@ subtitle: Conheça nossos professores e a coordenação do curso
 
 <div class="grid grid-2" style="margin-top: 2rem;">
 
+
 <div class="card">
-  <h3 class="card-title"><a href="https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1058696" target="_blank">Teobaldo Bulhões</a></h3>
+  <h3 class="card-title"><a href="https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=3048216" target="_blank">Bruno Bruck</a></h3>
   <span class="badge badge-primary">Coordenador</span>
   <p class="card-text" style="margin-top: 1rem;">
-    <strong>E-mail:</strong> tbulhoes@ci.ufpb.br
+    <strong>E-mail:</strong> bruno.bruck@ci.ufpb.br
   </p>
 </div>
 
 <div class="card">
-  <h3 class="card-title"><a href="https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=3048216" target="_blank">Bruno Bruck</a></h3>
+  <h3 class="card-title"><a href="https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1058696" target="_blank">Teobaldo Bulhões</a></h3>
   <span class="badge badge-primary">Vice-Coordenador</span>
   <p class="card-text" style="margin-top: 1rem;">
-    <strong>E-mail:</strong> bruno.bruck@ci.ufpb.br
+    <strong>E-mail:</strong> tbulhoes@ci.ufpb.br
   </p>
 </div>
 

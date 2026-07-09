@@ -10,14 +10,14 @@ Está interessado em conhecer mais sobre o curso? Tem dúvidas sobre o processo 
 
 ### Coordenação
 
-**Coordenador**: Teobaldo Bulhões
-**E-mail**: tbulhoes@ci.ufpb.br
+**Coordenador**: Bruno Bruck
+(bruno.bruck@ci.ufpb.br)
 
-**Vice-Coordenador**: Bruno Bruck
-**E-mail**: bruno.bruck@ci.ufpb.br
+**Vice-Coordenador**: Teobaldo Bulhões
+(tbulhoes@ci.ufpb.br)
 
 **Secretária**: Juliana Barros
-**E-mail**: julianabarros@ci.ufpb.br
+(julianabarros@ci.ufpb.br)
 
 ### Localização
 
