@@ -6,7 +6,7 @@ subtitle: Conheça nossos professores e a coordenação do curso
 
 ## Coordenação
 
-<div class="grid grid-2" style="margin-top: 2rem;">
+<div class="grid grid-2" style="margin-top: 2rem; margin-bottom: 2rem;">
 
 
 <div class="card">
