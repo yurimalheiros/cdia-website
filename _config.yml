@@ -18,6 +18,10 @@ exclude:
   - vendor/ruby/
   - README.md
   - TODO.md
+  - CUSTOMIZACAO.md
+  - INSTALL.md
+  - SOBRE_O_PROJETO.md
+  - TROUBLESHOOTING.md
 
 # Defaults
 defaults:

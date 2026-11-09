@@ -29,7 +29,7 @@ subtitle: Conheça nossos professores e a coordenação do curso
   <h3 class="card-title">Juliana Barros</h3>
   <span class="badge badge-accent">Secretária</span>
   <p class="card-text" style="margin-top: 1rem;">
-    <strong>E-mail:</strong> julianabarros@ci.ufpb.br
+    <strong>E-mail:</strong> graduacao@ci.ufpb.br
   </p>
 </div>
 

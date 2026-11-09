@@ -17,7 +17,7 @@ Está interessado em conhecer mais sobre o curso? Tem dúvidas sobre o processo 
 (tbulhoes@ci.ufpb.br)
 
 **Secretária**: Juliana Barros
-(julianabarros@ci.ufpb.br)
+(graduacao@ci.ufpb.br)
 
 ### Localização
 
